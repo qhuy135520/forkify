@@ -17,7 +17,6 @@ export class RecipeView {
   }
 
   renderSpinner = function () {
-    console.log(icons);
     const markup = `
           <div class="spinner">
             <svg>
